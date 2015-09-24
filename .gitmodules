@@ -1,3 +1,3 @@
 [submodule "scripts/react-viz"]
 	path = scripts/react-viz
-	url = /Users/jhorowitz/Dropbox/docs/coding/react-viz/
+	url = git@github.com:joshuahhh/react-viz.git
